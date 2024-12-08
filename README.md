@@ -1,4 +1,4 @@
-# 👨‍💻 Nicolas D'Alessandro | Data Enthusiast & Tech Innovator  
+## 👨‍💻 Nicolas D'Alessandro | Data Enthusiast & Tech Innovator  
 
 ## Hi there 👋  
 
@@ -13,13 +13,10 @@ I’m **Nicolas D'Alessandro**, a passionate **Data Enthusiast** and **Tech Inno
 - **Predictive Analytics** for game feature recommendations  
 - **Interactive Dashboards** with **Tableau** & **QuickSight**  
 
----
-
 ### 🌱 I’m currently learning:  
 
-- **Artificial Intelligence Specialization** | Valencian Graduate School of AI (Ongoing)  
-
----
+- **Artificial Intelligence Specialization** | Valencian Graduate School of AI (Ongoing)
+- 
 
 ### 👯 I’m looking to collaborate on:  
 
@@ -27,15 +24,11 @@ I’m **Nicolas D'Alessandro**, a passionate **Data Enthusiast** and **Tech Inno
 - **Open Source Data Tools** for visualization and automation  
 - **Game Analytics & Business Intelligence** research  
 
----
-
 ### 🤔 I’m looking for help with:  
 
 - **Real-Time Data Pipelines** best practices  
 - **Advanced ML Deployment** in cloud environments  
 - **KPI Definition** for emerging business models  
-
----
 
 ### 💬 Ask me about:  
 
@@ -75,8 +68,6 @@ I’m **Nicolas D'Alessandro**, a passionate **Data Enthusiast** and **Tech Inno
 - **Business Intelligence & Data Science** | Building scalable, data-driven solutions  
 - **Full-Stack Development** | Modern frontend and backend tech stacks  
 
----
-
 #### 🎓 Education  
 
 - **Specialization in Artificial Intelligence (Ongoing)** | Valencian Graduate School and Research Network of AI  
@@ -86,8 +77,6 @@ I’m **Nicolas D'Alessandro**, a passionate **Data Enthusiast** and **Tech Inno
 - **Higher Education in Multiplatform App Development (DAM)** | IFP Barcelona  
 - **Bachelor’s Degree in Software Application Development** | Universitat Oberta de Catalunya  
 - **Industrial & Electromechanical Technician** | School of Technical Education “Henry Ford,” Ford Argentina
-
----
 
 #### 🛠️ Tech & Skills  
 
