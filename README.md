@@ -4,8 +4,6 @@
 
 I’m **Nicolas D'Alessandro**, a passionate **Data Enthusiast** and **Tech Innovator**. I specialize in **Business Intelligence**, **Data Science**, and **Software Development**, blending creative tech solutions with data-driven insights. I love solving complex problems using **Data Analytics**, **Machine Learning**, and **Data Visualization**.
 
----
-
 ### 🔭 I’m currently working on:  
 
 - Advanced **Game Analytics Models** (Engagement, Monetization, Retention)  
@@ -16,7 +14,7 @@ I’m **Nicolas D'Alessandro**, a passionate **Data Enthusiast** and **Tech Inno
 ### 🌱 I’m currently learning:  
 
 - **Artificial Intelligence Specialization** | Valencian Graduate School of AI (Ongoing)
-- 
+
 
 ### 👯 I’m looking to collaborate on:  
 
@@ -46,13 +44,10 @@ I’m **Nicolas D'Alessandro**, a passionate **Data Enthusiast** and **Tech Inno
 - 💻 [GitHub Repositories](https://github.com/nicodalessandro11)  
 - 📧 nicodalessandro11@gmail.com  
 
----
-
 ### 😄 Pronouns:  
 
 - He/Him  
 
----
 
 ### ⚡ Fun fact:  
 
