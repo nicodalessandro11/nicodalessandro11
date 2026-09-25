@@ -1,114 +1,116 @@
-## 👨‍💻 Nicolas D'Alessandro | Data Enthusiast & Tech Innovator  
+## 👨‍💻 Nicolas D'Alessandro | Data Scientist & Analytics Lead
 
-## Hi there 👋  
+## Hi there 👋
 
-I’m **Nicolas D'Alessandro**, a passionate **Data Enthusiast** and **Tech Innovator**. I specialize in **Business Intelligence**, **Data Science**, **Software Development**, and **Full-Stack Development**, blending creative tech solutions with data-driven insights. I love solving complex problems using **Data Analytics**, **Machine Learning**, **Data Visualization**, and **Cloud Technologies**.
+I'm **Nicolas D'Alessandro**, a **Data Scientist** and **Analytics Lead** working at the intersection of **Data Science**, **Data Engineering** and **Business Intelligence**. I turn raw data into models, experiments and decisions, using **Machine Learning**, **Statistical Inference**, **Data Visualization** and **Cloud Technologies**.
 
-### 🔭 I’m currently working on:  
+### 🔭 I'm currently working on:
 
-- Advanced **Game Analytics Models** (Engagement, Monetization, Retention)  
-- **ETL Pipelines & Data Engineering** using **AWS Glue**, **Athena**, **PySpark**, and **SQL**  
-- **Predictive Analytics** for game feature recommendations  
-- **Interactive Dashboards** with **Tableau** & **QuickSight**  
-- **Backend APIs** for scalable data management solutions  
+- **Game Analytics Models** (Engagement, Monetization, Retention)
+- **Experimentation & Causal Inference**: measuring what actually moves the needle, not just what correlates
+- **Predictive Analytics** for game feature recommendations
+- **ETL Pipelines & Data Engineering** with **AWS Glue**, **Athena**, **PySpark** and **SQL**
+- **Semantic Layers & AI-assisted Analytics** on top of governed datasets
+- **Interactive Dashboards** with **QuickSight** & **Tableau**
 
-### 🌱 I’m currently learning:  
+### 🌱 I'm currently learning:
 
-- **Artificial Intelligence Specialization** | Valencian Graduate School of AI (Ongoing)  
-- **Cloud-Native Development** with **AWS Lambda**, **Docker**, **API Gateway**, and **CI/CD Pipelines**  
+- **Master's in Data Science (MDS)** | Universitat Politècnica de Catalunya (UPC), FIB (2026-27)
+- **Artificial Intelligence Specialization** | Valencian Graduate School of AI (Ongoing)
+- **ML Deployment & MLOps** on AWS (Lambda, Docker, CI/CD)
 
-### 👯 I’m looking to collaborate on:  
+### 👯 I'm looking to collaborate on:
 
-- **Data Science Projects** related to **Machine Learning**, **NLP**, and **Big Data**  
-- **Full-Stack Web Development** projects involving modern frameworks  
-- **Open Source Data Tools** for visualization and automation  
+- **Data Science Projects** in **Machine Learning**, **Causal Inference**, **NLP** and **Big Data**
+- **Open Source Data Tools** for analysis, visualization and automation
+- **Educational notebooks** that make statistics and experimentation easy to understand
 
-### 🤔 I’m looking for help with:  
+### 🤔 I'm looking for help with:
 
-- **Real-Time Data Pipelines** best practices  
-- **Advanced ML Deployment** in cloud environments  
-- **KPI Definition & Analytics Frameworks** for emerging business models  
+- **Real-Time Data Pipelines** best practices
+- **Advanced ML Deployment** in cloud environments
+- **KPI Definition & Analytics Frameworks** for emerging business models
 
-### 💬 Ask me about:  
+### 💬 Ask me about:
 
-- **Game Analytics & Product Insights**  
-- **Business Intelligence Solutions**  
-- **Data-Driven Product Development**  
-- **Full-Stack Development** with modern **APIs**  
-- **CI/CD Pipelines** for data-driven applications  
+- **Game Analytics & Product Insights**
+- **A/B Testing & Experimental Design**
+- **Business Intelligence & Semantic Layers**
+- **Data Engineering on AWS**
+- **Data-Driven Product Development**
 
-### 📫 How to reach me:  
+### 📫 How to reach me:
 
-- 🌐 [Portfolio Website](https://nicodalessandro11.github.io)  
-- 📈 [DataViz CV on Tableau](https://public.tableau.com/views/CurriculumVitae_15892113026430/CV)  
-- 💻 [GitHub Repositories](https://github.com/nicodalessandro11)  
-- 📧 nicodalessandro11@gmail.com  
+- 🌐 [Portfolio Website](https://nicodalessandro11.github.io)
+- 📈 [DataViz CV on Tableau](https://public.tableau.com/views/CurriculumVitae_15892113026430/CV)
+- 💻 [GitHub Repositories](https://github.com/nicodalessandro11)
+- 📧 nicodalessandro11@gmail.com
 
-### 😄 Pronouns:  
+### 😄 Pronouns:
 
-- He/Him  
+- He/Him
 
-### ⚡ Fun fact:  
+### ⚡ Fun fact:
 
-**“I love merging art, data, and technology to create impactful solutions.”**  
+**"I love merging art, data, and technology to create impactful solutions."**
 
 ---
 
-## About Me:  
+## About Me:
 
-### 🚀 What I Do  
+### 🚀 What I Do
 
-- **Senior Product Data Analyst** | Game Analytics & Product Insights at Play’n GO  
-- **Business Intelligence & Data Science** | Building scalable, data-driven solutions  
-- **Full-Stack Development** | Backend & Frontend Tech Stacks  
+- **Director of Strategic Analytics** | Leading a data engineering team in the gaming industry
+- **Data Science & Game Analytics** | Models, experiments and product insights
+- **Business Intelligence** | Scalable datasets and dashboards for commercial, regulatory and product stakeholders
 
-### 🎓 Education  
+### 🎓 Education
 
-- **Artificial Intelligence Specialization (Ongoing)** | Valencian Graduate School of AI  
-- **Master’s in Business Analytics & Big Data** | Universidad Camilo José Cela - IMF Business School  
-- **Postgraduate in Data Analytics** | EADA Business School, Barcelona  
-- **Advanced University Diploma in Big Data Development** | Universitat Oberta de Catalunya  
-- **Higher Education in Multiplatform App Development (DAM)** | IFP Barcelona  
-- **Bachelor’s Degree in Software Application Development** | Universitat Oberta de Catalunya  
-- **Industrial & Electromechanical Technician** | School of Technical Education “Henry Ford,” Ford Argentina
+- **Master's in Data Science (MDS) (Ongoing)** | Universitat Politècnica de Catalunya (UPC), FIB
+- **Artificial Intelligence Specialization (Ongoing)** | Valencian Graduate School of AI
+- **Master's in Business Analytics & Big Data** | Universidad Camilo José Cela - IMF Business School
+- **Postgraduate in Data Analytics** | EADA Business School, Barcelona
+- **Advanced University Diploma in Big Data Development** | Universitat Oberta de Catalunya
+- **Bachelor's Degree in Computer Science** | Universitat Politècnica de Catalunya (UPC)
+- **Higher Education in Multiplatform App Development (DAM)** | IFP Barcelona
+- **Industrial & Electromechanical Technician** | School of Technical Education "Henry Ford," Ford Argentina
 
-### 🛠️ Tech & Skills  
+### 🛠️ Tech & Skills
 
-#### **📊 Data & Analytics:**  
+#### **🧠 Data Science & Machine Learning:**
 
-- **Data Visualization:** Tableau, QuickSight, Power BI  
-- **Data Science Tools:** Pandas, Numpy, Scikit-Learn, TensorFlow, PyTorch  
-- **Data Engineering:** AWS Glue, Athena, PySpark, Hadoop, SparkSQL  
-- **Big Data Tools:** Apache Kafka, Spark, AWS S3
+- **Languages:** Python, SQL
+- **Libraries:** Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch
+- **Statistics:** Hypothesis Testing, A/B Testing, Causal Inference, Regression Modeling
+- **Workflow:** Jupyter, reproducible notebooks, model evaluation
 
-#### **🔍 Business Intelligence & Analytics:**  
+#### **⚙️ Data Engineering:**
 
-- **Data Storytelling & Reporting**  
-- **Predictive Analytics & Machine Learning**  
-- **Business Intelligence Dashboards**
+- **Pipelines:** AWS Glue, Athena, PySpark, SparkSQL, ETL/ELT Workflows
+- **Big Data:** Apache Spark, Kafka, Hadoop, AWS S3
+- **Modeling:** Dimensional modeling, semantic layers
 
-#### **💻 Frontend Development:**  
+#### **📊 Business Intelligence & Visualization:**
 
-- **Frontend Frameworks:** React.js, Vue.js, HTML5, CSS3  
-- **Web Development Tools:** Bootstrap, TailwindCSS, SASS  
-  
-#### **🔧 Backend Development:**  
+- **Tools:** QuickSight, Tableau, Power BI
+- **Data Storytelling & Reporting** for technical and non-technical audiences
 
-- **API Development:** RESTful APIs, GraphQL  
-- **Backend Frameworks:** Flask, Django, FastAPI, Node.js  
-- **Database Management:** PostgreSQL, MySQL, SQLite, MongoDB  
-- **Data Pipelines:** AWS Glue, PySpark, ETL/ELT Workflows  
-- **Cloud Functions:** AWS Lambda, Azure Functions  
+#### **💻 Software & Backend Development:**
 
-#### **🖥️ DevOps & CI/CD:**  
+- **APIs:** RESTful APIs, GraphQL
+- **Frameworks:** Flask, Django, FastAPI, Node.js, React.js, Vue.js
+- **Databases:** PostgreSQL, MySQL, SQLite, MongoDB
+- **Cloud Functions:** AWS Lambda, Azure Functions
 
-- **Version Control & CI/CD:** GitHub Actions, Jenkins, Travis CI  
-- **Containerization & Deployment:** Docker, Kubernetes  
-- **Infrastructure as Code:** Terraform, AWS CloudFormation  
+#### **🖥️ DevOps & Cloud:**
+
+- **CI/CD:** GitHub Actions, Jenkins
+- **Containers:** Docker, Kubernetes
+- **Infrastructure as Code:** Terraform, AWS CloudFormation
 - **Cloud Providers:** AWS, Azure, GCP
 
-#### **🌐 Soft Skills:**  
+#### **🌐 Soft Skills:**
 
-- **Critical Thinking**, **Problem Solving**, **Project Management**, **Team Collaboration**  
+- **Team Leadership**, **Critical Thinking**, **Problem Solving**, **Stakeholder Communication**
 
 Happy to get in touch! 🚀
